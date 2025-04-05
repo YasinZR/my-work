@@ -8,5 +8,5 @@ test('renders learn react link', () => {
 });
 
 test('dummy test passes', () => {
-  expect(5 + 5).toBe(11);
+  expect(5 + 5).toBe(10);
 });
